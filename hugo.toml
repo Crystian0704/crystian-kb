@@ -1,0 +1,19 @@
+# Arquivo: hugo.toml
+
+baseURL = "https://Crystian0704.github.io/crystian-kb/"
+languageCode = "pt-br"
+title = "Minha Base de Conhecimento"
+theme = "learn"
+
+[params]
+# Muda o texto "Search..." do campo de busca
+searchPlaceholder = "Buscar..."
+# Desativa a seta para voltar ao topo
+showVisitedLinks = true
+# Desabilita o "Last modified by..."
+disableGitInfo = true
+# Desabilita o "Edit this page"
+editURL = ""
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
