@@ -3,17 +3,48 @@
 baseURL = "https://Crystian0704.github.io/crystian-kb/"
 languageCode = "pt-br"
 title = "Minha Base de Conhecimento"
-theme = "learn"
+theme = "relearn"
 
 [params]
-# Muda o texto "Search..." do campo de busca
-searchPlaceholder = "Buscar..."
-# Desativa a seta para voltar ao topo
 showVisitedLinks = true
-# Desabilita o "Last modified by..."
 disableGitInfo = true
-# Desabilita o "Edit this page"
 editURL = ""
 
+[[params.themeVariant]]
+auto = []
+identifier = 'relearn-auto'
+name = 'Relearn Light/Dark'
+
+[[params.themeVariant]]
+identifier = 'relearn-light'
+
+[[params.themeVariant]]
+identifier = 'relearn-dark'
+
+[[params.themeVariant]]
+identifier = 'relearn-bright'
+
+[[params.themeVariant]]
+auto = ['zen-light', 'zen-dark']
+identifier = 'zen-auto'
+name = 'Zen Light/Dark'
+
+[[params.themeVariant]]
+identifier = 'zen-light'
+
+[[params.themeVariant]]
+identifier = 'zen-dark'
+
+[[params.themeVariant]]
+auto = ['learn', 'neon']
+identifier = 'retro-auto'
+name = 'Retro Learn/Neon'
+
+[[params.themeVariant]]
+identifier = 'neon'
+
+[[params.themeVariant]]
+identifier = 'learn'
+
 [outputs]
-home = [ "HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]

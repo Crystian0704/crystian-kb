@@ -1,0 +1,29 @@
+[
+{
+	"uri": "http://localhost:1313/crystian-kb/como-comecar/",
+	"title": "Como Começar",
+	"tags": [],
+	"description": "",
+	"content": "Bem-vindo à nossa base de conhecimento!\nEste é o primeiro capítulo.\nPróximos Passos Instalação Configuração inicial "
+},
+{
+	"uri": "http://localhost:1313/crystian-kb/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://localhost:1313/crystian-kb/",
+	"title": "Minha Base de Conhecimento",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://localhost:1313/crystian-kb/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
