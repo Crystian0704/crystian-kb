@@ -3,7 +3,7 @@
   <channel>
     <title>Bem-vindo à Minha Base de Conhecimento :: Minha Base de Conhecimento</title>
     <link>http://localhost:1313/crystian-kb/index.html</link>
-    <description>Esta é a minha central de conhecimento pessoal, um lugar para organizar e compartilhar informações sobre diversos tópicos importantes para mim.</description>
+    <description>Esta é a minha central de conhecimento pessoal, um lugar para organizar códigos, tutoriais e tudo que precisa ser refeito, tendo como base LLMs, Youtube, livros, experiência pessoal e profissional.</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <atom:link href="http://localhost:1313/crystian-kb/index.xml" rel="self" type="application/rss+xml" />
