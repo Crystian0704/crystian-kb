@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Como Usar o Hugo para sua base de conhecimento :: Minha Base de Conhecimento</title>
+    <link>http://localhost:1313/crystian-kb/como-usar-hugo/index.html</link>
+    <description>Arquivo: _index.md (A página principal do capítulo) Bem-vindo ao guia completo de como usar o Hugo para criar sua base de conhecimento!&#xA;Neste capítulo, você aprenderá o essencial para gerenciar seu site de documentação, desde a criação de páginas e capítulos até a inserção de imagens e links internos.&#xA;Tópicos abordados:&#xA;Estrutura Básica: Entenda as pastas mais importantes do seu projeto. Adicionando Conteúdo: Aprenda a diferença entre capítulos e páginas e como organizá-los.</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <atom:link href="http://localhost:1313/crystian-kb/como-usar-hugo/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

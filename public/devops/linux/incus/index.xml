@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Incus :: Minha Base de Conhecimento</title>
+    <link>http://localhost:1313/crystian-kb/devops/linux/incus/index.html</link>
+    <description>Esta é a seção sobre o Incus. Aqui você encontrará guias de instalação, configuração, etc.</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <atom:link href="http://localhost:1313/crystian-kb/devops/linux/incus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guia de Instalação</title>
+      <link>http://localhost:1313/crystian-kb/devops/linux/incus/instalacao/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/crystian-kb/devops/linux/incus/instalacao/index.html</guid>
+      <description>Instalação</description>
+    </item>
+    <item>
+      <title>Guia: Criando e Importando uma Imagem Debian Customizada com Distrobuilder e Incus</title>
+      <link>http://localhost:1313/crystian-kb/devops/linux/incus/criar_imagens/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/crystian-kb/devops/linux/incus/criar_imagens/index.html</guid>
+      <description>Este documento detalha o processo para construir uma imagem Debian personalizada usando o distrobuilder e, em seguida, importá-la para o Incus para ser usada na criação de instâncias.&#xA;Requisitos Distrobuilder: Você precisa ter o Distrobuilder instalado no seu sistema. Passos 1. Preparação do Arquivo de Definição Antes de construir, você precisa de um arquivo de definição (por exemplo, debian.yaml) que descreve como a imagem deve ser montada.&#xA;Copie um arquivo debian.</description>
+    </item>
+  </channel>
+</rss>
